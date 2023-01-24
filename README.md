@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Vitor👋
 [![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-felipe-barbieri-de-lemes-715a03256/)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfbl&show_icons=true&theme=radical)
+![Vitor GitHub stats] <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfbl&theme=react&line_height=40&hide=css"/> </a>
 
 ## Tecnologias que eu uso no meu dia
 
