@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Vitor👋
-[![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vitor-felipe-barbieri-de-lemes-715a03256/](https://www.linkedin.com/in/v%C3%ADtor-felipe-barbieri-de-lemes-0465032a7))
+[![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vitor-felipe-barbieri-de-lemes-715a03256/])
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorfbl&show_icons=true&theme=transparent)
 
